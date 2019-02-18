@@ -28,6 +28,7 @@ Thumbs.db
 # Utils
 .sass-cache/
 .coverage
+/.noseids
 
 # Generated
 __pycache__
